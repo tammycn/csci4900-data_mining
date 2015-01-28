@@ -1,0 +1,3723 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link rel="icon" href="/images/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" /><title>
+
+	Athens-Clarke County, GA - Official Website - Sheriff
+
+</title><meta name="description" content="Sheriff" /><link id="ctl00_ChangeFonts" href="/images/pages/style.css" rel="stylesheet" type="text/css" /><link href="/images/pages/template.css" rel="stylesheet" type="text/css" /><link href="/images/pages/N205/template.css" rel="stylesheet" type="text/css" />	<link href="/App_Themes/Common.css" rel="stylesheet" type="text/css">
+
+	<link href="/App_Themes/Modal.css" rel="stylesheet" type="text/css">
+
+	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/App_Themes/ie8.css"><![endif]-->
+
+	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/ie7.css"><![endif]-->
+
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/App_Themes/ie6.css"><![endif]-->
+
+	<link href="/App_Themes/Default/SiteSpecificCustom.css" rel="stylesheet" type="text/css">
+
+
+
+	<script type="text/javascript" src="/common/GlobalJSFunctionsDetail.js"></script>
+
+	<script type="text/javascript" src="/common/autocomplete.js"></script>
+
+	<script type="text/javascript" src="/common/jquery-latest.min.js"></script>
+
+
+
+	<!--[if IE 6]><script language="JavaScript" type="text/javascript">var isie6 = true;</script><![endif]-->
+
+	<!--[if IE 7]><script language="JavaScript" type="text/javascript">var isie7 = true;</script><![endif]-->
+
+	<script type="text/javascript" src="/common/layout/MouseOverMenuFloatingStatic.js"></script>
+
+	<script type="text/javascript" src="/common/FrontEnd.js"></script>
+
+	<!--Reference Stylesheet-->
+
+
+
+	<!--Dynamic Header Styles-->
+
+	<style type="text/css">
+
+	.modalBackground  {
+
+		background: #fff;
+
+		opacity: 0.5;
+
+		filter: alpha(opacity=50);
+
+	}
+
+	.featureFooter{	clear:both; }
+
+	a.SubCat, a.SubCat:visited,a.SubCat:link,a.SubCat:active,a.SubCat:hover
+
+	{
+
+		background:#c7c7c7;
+
+		padding:4px 5px;
+
+	}
+
+.navText > a.SubCat
+
+{
+
+	padding-right: 25px;
+
+}
+
+.navText > a.SubCat > img
+
+{
+
+	border: none;
+
+   margin-top: -8px; /* This is half the height of the image */
+
+  position: absolute;
+
+ right: 5px;
+
+top: 50%;
+
+width: auto;
+
+}
+
+    a.SubCat:hover { background:url(/images/layout/design21/dd2.jpg) bottom left repeat-x #2f769d; }
+
+	span.SubCatGroup
+
+	{
+
+		background:#c7c7c7;
+
+		padding:4px 5px;
+
+	}
+
+	div.wrapper ,div#navTopWrapper
+
+	{
+
+		background:#c7c7c7;
+
+		border:1px #c7c7c7 solid;
+
+   }
+
+   div.wrapper div.navText,div#navTopWrapper div, div#navWrapper div.intPopupMenuHeight
+
+   {
+
+       border-bottom: 1px #c7c7c7 solid;
+
+   }
+
+    div#navSideWrapper { top: -3px; }
+
+    div#navSideWrapper div.wrapper, div#navTopWrapper div.navText div.wrapper { top: -1px; }
+
+img.btmImage { left:-1px; }
+
+    a.bounce, a.bounce:visited,a.bounce:link,a.bounce:active,a.bounce:hover, div.bounce { background:#FFFFFF; }
+
+    a.bounce:hover { background:url(/images/layout/design21/dd2.jpg) bottom left repeat-x #2f769d; }
+
+    span.bounce { background:#FFFFFF; }
+
+    div.wrapper { border-bottom: none; }
+
+    #navTopWrapper a.SubCat, #navTopWrapper a.SubCat:visited,#navTopWrapper a.SubCat:link,#navTopWrapper a.SubCat:active,#navTopWrapper a.SubCat:hover
+
+    {
+
+        background:#c7c7c7 ;
+
+        padding:4px 5px;
+
+    }
+
+    #navTopWrapper a.SubCat:hover { background:url(/images/layout/design21/dd2.jpg) bottom left repeat-x #2f769d; }
+
+	#navTopWrapper span.SubCatGroup
+
+	{
+
+		background:#c7c7c7;
+
+		padding:4px 5px;
+
+	}
+
+    #navTopWrapper div.wrapper ,div#navTopWrapper
+
+    {
+
+        background:#c7c7c7;
+
+        border:1px #c7c7c7 solid;
+
+    }
+
+    div#navTopWrapper, div#navTopWrapper div.wrapper { border-bottom:none; }
+
+    #navTopWrapper div.wrapper div.navText,div#navTopWrapper div, div#floating div.wrapperHeight { border-bottom: 1px #c7c7c7 solid; }
+
+    div#navTopWrapper div.navText div.wrapper, div#navTopWrapper div.navText div.bounce { top: -1px; }
+
+    #navTopWrapper div.navText div.bounce div.bounceItem { border-bottom-style:solid; }
+
+    #navTopWrapper div.imgWrapper { left: -1px; }
+
+    div#navTopWrapper div.navText div.bounce { border-bottom-width: 0px; }
+
+    #navTopWrapper a.bounce, #navTopWrapper a.bounce:visited,#navTopWrapper a.bounce:link,#navTopWrapper a.bounce:active,#navTopWrapper a.bounce:hover, #navTopWrapper div.bounce { background:#FFFFFF; }
+
+    #navTopWrapper a.bounce:hover { background:url(/images/layout/design21/dd2.jpg) bottom left repeat-x #2f769d; }
+
+    #navTopWrapper span.bounce { background:#FFFFFF; }
+
+	div#navTopWrapper div.navText a
+
+	{
+
+		display:block;
+
+		width:auto;
+
+	}
+
+	.formline
+
+	{
+
+		position:relative;
+
+		text-align:left;
+
+		padding:0 0 0 5px;
+
+		margin:1px;
+
+		border:1px solid green;
+
+	}
+
+	.formline input, .formline select, .formline h4, .formline textarea, .readonlyinput
+
+	{
+
+		position:relative;
+
+		left:10px;
+
+		display:inline;
+
+	}
+
+	.dateexample
+
+	{
+
+		font-size:x-small;
+
+		position:relative;
+
+		left:15px;
+
+	}
+
+	hr.special
+
+	{
+
+		height:1px;
+
+		color:#808080;
+
+	}
+
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31125268-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+
+<TABLE BORDER BGCOLOR= beige BORDERCOLOR=black align=center>
+
+
+
+<DIV ALIGN=left style="margin-left:75px;"><br /><FONT SIZE=+1>
+Last Updated:
+12/29/2014 11:45:00 AM
+</FONT>
+
+</DIV>
+
+
+
+
+
+<CAPTION ALIGN=top><FONT SIZE=+1><B>JAIL BOOKING RECAP REPORT</B></FONT></CAPTION>
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TH><FONT SIZE=-1>MID#</FONT></TH>
+
+<TH><FONT SIZE=-1>BOOKING TIME</FONT></TH>
+
+<TH><FONT SIZE=-1>NAME</FONT></TH>
+
+<TH><FONT SIZE=-1>YEAR OF BIRTH</FONT></TH>
+
+<TH><FONT SIZE=-1>RACE</FONT></TH>
+
+<TH><FONT SIZE=-1>SEX</FONT></TH>
+
+<TH><FONT SIZE=-1>ARRESTING AGENCY</FONT></TH>
+
+<TH><FONT SIZE=-1>RELEASE TIME</FONT></TH>
+
+<TH><FONT SIZE=-1>CHARGE</FONT></TH>
+
+<TH><FONT SIZE=-1>CRIME TYPE</FONT></TH>
+
+<TH><FONT SIZE=-1>COURT JURISDICTION</FONT></TH>
+
+<TH><FONT SIZE=-1>BONDING COMPANY</FONT></TH>
+
+<TH><FONT SIZE=-1>BOND AMOUNT</FONT></TH>
+
+<TH><FONT SIZE=-1>WARRANT #</FONT></TH>
+
+<TH><FONT SIZE=-1>POLICE CASE#</FONT></TH>
+
+</TR>
+
+  
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>85415</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;5:46 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=85415&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ADDERLEY, MERVIN&nbsp;DEVON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=85415">ADDERLEY, MERVIN&nbsp;DEVON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=85415" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1992</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;2:21 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRIMINAL TRESPASS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>85415</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;5:46 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=85415&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ADDERLEY, MERVIN&nbsp;DEVON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=85415">ADDERLEY, MERVIN&nbsp;DEVON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=85415" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1992</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;2:21 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>OBSTRUCTION LEO</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>85415</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;5:46 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=85415&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ADDERLEY, MERVIN&nbsp;DEVON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=85415">ADDERLEY, MERVIN&nbsp;DEVON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=85415" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1992</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;2:21 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SIM.BATT. PO/LE DOG</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>85415</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;5:46 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=85415&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ADDERLEY, MERVIN&nbsp;DEVON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=85415">ADDERLEY, MERVIN&nbsp;DEVON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=85415" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1992</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;2:21 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SIM.BATT. PO/LE DOG</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>27995</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;9:30 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=27995&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ALLEN, BOBBY&nbsp;RAY</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=27995">ALLEN, BOBBY&nbsp;RAY</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=27995" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1965</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>BATTERY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR142366</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>27995</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;9:30 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=27995&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ALLEN, BOBBY&nbsp;RAY</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=27995">ALLEN, BOBBY&nbsp;RAY</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=27995" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1965</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>EXPLOIT/ELDER-DISABL</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR142426</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>45485</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;9:47 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=45485&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BARCENOS, EDUARDO&nbsp;JIMENEZ</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=45485">BARCENOS, EDUARDO&nbsp;JIMENEZ</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=45485" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1979</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Hispanic</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;2:12 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRIMINAL TRESPASS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MAGCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR147172</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>45485</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;9:47 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=45485&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BARCENOS, EDUARDO&nbsp;JIMENEZ</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=45485">BARCENOS, EDUARDO&nbsp;JIMENEZ</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=45485" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1979</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Hispanic</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;2:12 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUN BENCH WARRANT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$475.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU088016</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>13290</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;6:53 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=13290&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BARNES, KENNETH&nbsp;DWAYNE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=13290">BARNES, KENNETH&nbsp;DWAYNE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=13290" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1975</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;10:46 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>THEFT BY SHOPLIFTING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121580</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>4560</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/29/2014&nbsp;10:35 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=4560&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BARNETT, ANTHONY&nbsp;LEE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=4560">BARNETT, ANTHONY&nbsp;LEE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=4560" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1974</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION HOLD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>B</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>6132</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;2:40 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=6132&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BARROW, JOHNNY&nbsp;ROBERT</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=6132">BARROW, JOHNNY&nbsp;ROBERT</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=6132" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1972</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FAILURE TO APPEAR</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1214799</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>41285</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;8:56 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=41285&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BELL, DEREK&nbsp;LAMAR</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=41285">BELL, DEREK&nbsp;LAMAR</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=41285" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1982</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;4:25 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FORGERY 2ND DEGREE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$3,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121587</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>41285</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;8:56 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=41285&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BELL, DEREK&nbsp;LAMAR</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=41285">BELL, DEREK&nbsp;LAMAR</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=41285" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1982</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;4:25 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>HOLD/OTHER AGENCY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>B</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121587</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86967</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;12:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86967&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BLALOCK, LAWTON&nbsp;ALAN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86967">BLALOCK, LAWTON&nbsp;ALAN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86967" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1997</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;9:21 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUN BENCH WARRANT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1416701</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>6999</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;10:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=6999&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BRADFORD, TIMOTHY&nbsp;LAWRENCE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=6999">BRADFORD, TIMOTHY&nbsp;LAWRENCE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=6999" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1971</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>OBSTRUCTION LEO</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$3,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121592</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>6999</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;10:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=6999&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BRADFORD, TIMOTHY&nbsp;LAWRENCE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=6999">BRADFORD, TIMOTHY&nbsp;LAWRENCE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=6999" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1971</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>ST14CR1335R1</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121592</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>46024</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;12:33 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=46024&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">BROWN, CHARLIE&nbsp;POWELL</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=46024">BROWN, CHARLIE&nbsp;POWELL</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=46024" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1978</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;10:11 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>OTHER AGENCY HOLD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>B</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED TO SOCIAL CIRCLE</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121553</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86968</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;11:51 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86968&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">CALLAHAN, RAPHAEL&nbsp;DERRICK</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86968">CALLAHAN, RAPHAEL&nbsp;DERRICK</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86968" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1990</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;11:54 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>POSS/MANU/SELL/MARIJ</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$4,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121598</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>74892</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;6:46 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=74892&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">CAMPOS, CANDACE&nbsp;BOLTON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=74892">CAMPOS, CANDACE&nbsp;BOLTON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=74892" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1966</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;2:29 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>THEFT BY SHOPLIFTING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14-12-1461</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86468</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;11:10 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86468&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">CHAIRES, MARCO&nbsp;ANTONIO</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86468">CHAIRES, MARCO&nbsp;ANTONIO</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86468" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1992</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRIMINAL TRESPASS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$4,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>CRCR147233</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121478</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86468</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;11:10 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86468&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">CHAIRES, MARCO&nbsp;ANTONIO</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86468">CHAIRES, MARCO&nbsp;ANTONIO</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86468" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1992</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>VIOL.FAM.VIOL.ORDER</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>CRCR147232</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121478</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>330</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;12:42 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=330&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">COOPER, RONNIE&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=330">COOPER, RONNIE&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=330" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1960</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;1:12 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>LICENSE REQUIRED</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121528</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>330</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;12:42 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=330&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">COOPER, RONNIE&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=330">COOPER, RONNIE&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=330" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1960</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;1:12 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>NO PROOF INSURANCE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121528</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>330</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;12:42 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=330&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">COOPER, RONNIE&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=330">COOPER, RONNIE&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=330" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1960</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;1:12 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUS/REVOK REGISTRATI</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121528</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86976</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;11:26 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86976&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">COX, ANTHONY&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86976">COX, ANTHONY&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86976" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1996</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRIMINAL TRESPASS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>82920</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;7:04 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=82920&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">CUNNINGHAM, HORACITIO&nbsp;L</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=82920">CUNNINGHAM, HORACITIO&nbsp;L</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=82920" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1977</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;1:37 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>LICENSE REQUIRED</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121643</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86977</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/29/2014&nbsp;3:08 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86977&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">DERMODY, JASON&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86977">DERMODY, JASON&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86977" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1979</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRIMINAL TRESPASS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121671</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86977</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/29/2014&nbsp;3:08 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86977&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">DERMODY, JASON&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86977">DERMODY, JASON&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86977" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1979</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SIMPLE BATTERY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121671</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>81685</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;6:20 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=81685&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">EBERHART, BRITTNIE&nbsp;LASHUN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=81685">EBERHART, BRITTNIE&nbsp;LASHUN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=81685" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FAILURE TO APPEAR</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>ST14CR3019</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>81685</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;6:20 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=81685&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">EBERHART, BRITTNIE&nbsp;LASHUN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=81685">EBERHART, BRITTNIE&nbsp;LASHUN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=81685" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>SU13CR0923R1</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>50367</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;7:19 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=50367&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ELLIOT, DAARON&nbsp;DENEE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=50367">ELLIOT, DAARON&nbsp;DENEE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=50367" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1980</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>BATTERY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR147226</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>50367</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;7:19 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=50367&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ELLIOT, DAARON&nbsp;DENEE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=50367">ELLIOT, DAARON&nbsp;DENEE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=50367" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1980</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRUELTY CHILDREN-3RD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR147227</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>71623</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;10:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=71623&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ELLISON, DEMARCUS&nbsp;VERNON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=71623">ELLISON, DEMARCUS&nbsp;VERNON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=71623" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1993</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>HOLD/OTHER AGENCY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>B</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>71623</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;10:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=71623&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ELLISON, DEMARCUS&nbsp;VERNON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=71623">ELLISON, DEMARCUS&nbsp;VERNON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=71623" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1993</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>SU13CR0157R5</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>44851</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;4:15 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=44851&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ELLISON, MARCO&nbsp;DEON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=44851">ELLISON, MARCO&nbsp;DEON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=44851" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1986</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>OTHER AGENCY HOLD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>B</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>44851</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;4:15 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=44851&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ELLISON, MARCO&nbsp;DEON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=44851">ELLISON, MARCO&nbsp;DEON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=44851" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1986</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>SU13CR0406R2</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86603</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;10:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86603&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ESPINO, JUAN&nbsp;CARLOS</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86603">ESPINO, JUAN&nbsp;CARLOS</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86603" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1996</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;7:08 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DRUGS/ORIGINAL CO</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121524</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86603</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;10:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86603&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ESPINO, JUAN&nbsp;CARLOS</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86603">ESPINO, JUAN&nbsp;CARLOS</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86603" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1996</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;7:08 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI   DRUGS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121524</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86603</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;10:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86603&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ESPINO, JUAN&nbsp;CARLOS</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86603">ESPINO, JUAN&nbsp;CARLOS</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86603" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1996</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;7:08 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>HEADLIGHTS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121524</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86603</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;10:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86603&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ESPINO, JUAN&nbsp;CARLOS</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86603">ESPINO, JUAN&nbsp;CARLOS</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86603" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1996</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;7:08 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>POSS OF MARIJ-1OZ-</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121524</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86603</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;10:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86603&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ESPINO, JUAN&nbsp;CARLOS</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86603">ESPINO, JUAN&nbsp;CARLOS</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86603" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1996</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;7:08 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>POSS/PUR SCH I,II</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121524</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86603</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;7:45 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86603&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ESPINO, JUAN&nbsp;CARLOS</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86603">ESPINO, JUAN&nbsp;CARLOS</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86603" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1996</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;11:13 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ERROR</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED TO ARMC ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>478</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;10:34 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=478&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">FLANIGAN, ANDRE&nbsp;LATORY</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=478">FLANIGAN, ANDRE&nbsp;LATORY</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=478" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1971</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRIMINAL TRESPASS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14-12-1493</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>2230</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;4:24 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=2230&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">FREEMAN, EDDIE&nbsp;JAMES</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=2230">FREEMAN, EDDIE&nbsp;JAMES</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=2230" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1957</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;8:58 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>THEFT BY SHOPLIFTING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121445</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>1484</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;10:30 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=1484&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GOOLSBY, MICHAEL&nbsp;ANTHONY</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=1484">GOOLSBY, MICHAEL&nbsp;ANTHONY</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=1484" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1975</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;11:49 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI  ALCOHOL</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121547</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86970</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;12:56 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86970&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GORDON JR, ERIC&nbsp;TYSON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86970">GORDON JR, ERIC&nbsp;TYSON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86970" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;2:27 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DISORDERLY CONDUCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14-12-1635</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86962</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;12:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86962&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GOSSETT, MATTHEW&nbsp;K</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86962">GOSSETT, MATTHEW&nbsp;K</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86962" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1961</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DRIVE WRONG SIDE/ROA</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1412834</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86962</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;12:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86962&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GOSSETT, MATTHEW&nbsp;K</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86962">GOSSETT, MATTHEW&nbsp;K</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86962" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1961</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FOLLOWING TOO CLOSEL</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1412823</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86962</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;12:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86962&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GOSSETT, MATTHEW&nbsp;K</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86962">GOSSETT, MATTHEW&nbsp;K</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86962" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1961</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>HIT&RUN LEAVE SCENE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1412820</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86962</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;12:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86962&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GOSSETT, MATTHEW&nbsp;K</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86962">GOSSETT, MATTHEW&nbsp;K</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86962" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1961</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>HIT&RUN LEAVE SCENE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1412832</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86962</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;12:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86962&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GOSSETT, MATTHEW&nbsp;K</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86962">GOSSETT, MATTHEW&nbsp;K</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86962" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1961</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>IMPROPER DRIVING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1412826</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86962</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;12:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86962&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GOSSETT, MATTHEW&nbsp;K</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86962">GOSSETT, MATTHEW&nbsp;K</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86962" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1961</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>IMPROPER DRIVING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1412833</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86962</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;12:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86962&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GOSSETT, MATTHEW&nbsp;K</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86962">GOSSETT, MATTHEW&nbsp;K</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86962" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1961</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RECKLESS DRIVING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1412819</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86962</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;12:47 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86962&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GOSSETT, MATTHEW&nbsp;K</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86962">GOSSETT, MATTHEW&nbsp;K</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86962" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1961</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RECKLESS DRIVING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1412831</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>64797</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;9:18 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=64797&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GRESHAM, TERRENCE&nbsp;ALAN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=64797">GRESHAM, TERRENCE&nbsp;ALAN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=64797" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>BATTERY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121609</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>64797</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;9:18 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=64797&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">GRESHAM, TERRENCE&nbsp;ALAN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=64797">GRESHAM, TERRENCE&nbsp;ALAN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=64797" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RAPE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121609</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86975</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;3:41 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86975&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HALL, JANICE&nbsp;LATOYA</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86975">HALL, JANICE&nbsp;LATOYA</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86975" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1992</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;5:09 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FALSE REPORT OF CRIM</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121651</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>6090</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;3:21 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=6090&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HARDMAN, DENNIS&nbsp;SHANE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=6090">HARDMAN, DENNIS&nbsp;SHANE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=6090" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1972</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>ST14CR1121R3</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>15030</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;7:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=15030&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HENRY, WAYNE&nbsp;PHILIP</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=15030">HENRY, WAYNE&nbsp;PHILIP</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=15030" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1967</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;9:22 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>THEFT BY SHOPLIFTING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14-12-1466</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86973</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;4:38 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86973&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HERNANDEZ-BATRES, ORLANDO&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86973">HERNANDEZ-BATRES, ORLANDO&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86973" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Hispanic</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;10:15 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI  ALCOHOL</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86973</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;4:38 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86973&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HERNANDEZ-BATRES, ORLANDO&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86973">HERNANDEZ-BATRES, ORLANDO&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86973" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Hispanic</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;10:15 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>IMPROPER DRIVING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86973</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;4:38 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86973&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HERNANDEZ-BATRES, ORLANDO&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86973">HERNANDEZ-BATRES, ORLANDO&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86973" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Hispanic</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;10:15 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>LICENSE REQUIRED</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86973</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;4:38 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86973&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HERNANDEZ-BATRES, ORLANDO&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86973">HERNANDEZ-BATRES, ORLANDO&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86973" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Hispanic</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;10:15 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>OBEYING SIGNAL/SIGNS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>36094</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;12:14 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=36094&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HILL, MARLON&nbsp;SANTINTO</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=36094">HILL, MARLON&nbsp;SANTINTO</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=36094" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1983</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>SU05CR1031R7</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86966</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;1:49 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86966&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOLMES, GABRIELLE&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86966">HOLMES, GABRIELLE&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86966" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1990</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;7:01 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI  ALCOHOL</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86966</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;1:49 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86966&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOLMES, GABRIELLE&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86966">HOLMES, GABRIELLE&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86966" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1990</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;7:01 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>IMPROPER DRIVING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86966</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;1:49 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86966&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOLMES, GABRIELLE&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86966">HOLMES, GABRIELLE&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86966" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1990</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;7:01 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>LIC/EXHIB ON DEMAND</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86966</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;1:49 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86966&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOLMES, GABRIELLE&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86966">HOLMES, GABRIELLE&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86966" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1990</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;7:01 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>OBSTRUCTION LEO</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$5,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>16057</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;11:06 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=16057&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOLT, ANIMASHAUN&nbsp;MOYENDA</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=16057">HOLT, ANIMASHAUN&nbsp;MOYENDA</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=16057" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1977</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;12:24 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI  ALCOHOL</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>16057</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;11:06 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=16057&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOLT, ANIMASHAUN&nbsp;MOYENDA</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=16057">HOLT, ANIMASHAUN&nbsp;MOYENDA</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=16057" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1977</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;12:24 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SERIOUS INJURY VEHIC</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$5,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>16057</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;11:06 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=16057&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOLT, ANIMASHAUN&nbsp;MOYENDA</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=16057">HOLT, ANIMASHAUN&nbsp;MOYENDA</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=16057" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1977</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;12:24 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FAIL YIELD RIGHTAWAY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>49751</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;4:43 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=49751&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOOPER, BRANDON&nbsp;LEE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=49751">HOOPER, BRANDON&nbsp;LEE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=49751" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1986</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>SU05CR0395R3</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>49751</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;4:43 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=49751&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOOPER, BRANDON&nbsp;LEE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=49751">HOOPER, BRANDON&nbsp;LEE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=49751" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1986</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>SU05CR1857</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>81935</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;4:13 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=81935&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOWELL, RAYMON&nbsp;STANLEY</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=81935">HOWELL, RAYMON&nbsp;STANLEY</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=81935" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;10:15 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRIMINAL DAMAGE 2DEG</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR147228</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>81935</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;4:13 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=81935&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HOWELL, RAYMON&nbsp;STANLEY</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=81935">HOWELL, RAYMON&nbsp;STANLEY</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=81935" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;10:15 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SIMPLE BATTERY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR147225</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>19746</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;10:57 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=19746&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HULL, COREY&nbsp;DESHAWN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=19746">HULL, COREY&nbsp;DESHAWN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=19746" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1977</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;12:55 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SAFETY BELTS PASS VE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121560</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>19746</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;10:57 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=19746&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">HULL, COREY&nbsp;DESHAWN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=19746">HULL, COREY&nbsp;DESHAWN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=19746" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1977</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;12:55 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUSPENDED LICENSE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121560</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>19871</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;11:07 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=19871&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">JENNINGS, MARIO&nbsp;MANDERAL</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=19871">JENNINGS, MARIO&nbsp;MANDERAL</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=19871" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1979</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FORGERY 2ND DEGREE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$5,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121548</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>19871</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;11:07 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=19871&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">JENNINGS, MARIO&nbsp;MANDERAL</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=19871">JENNINGS, MARIO&nbsp;MANDERAL</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=19871" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1979</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>POSSESSION COCAINE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$5,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121548</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>19871</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;11:07 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=19871&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">JENNINGS, MARIO&nbsp;MANDERAL</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=19871">JENNINGS, MARIO&nbsp;MANDERAL</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=19871" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1979</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>ST13CR3089R2</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121548</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>69558</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;3:26 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=69558&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">LETT, MICHELLE&nbsp;LATASHA</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=69558">LETT, MICHELLE&nbsp;LATASHA</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=69558" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1992</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRIMINAL TRESPASS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121653</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>69558</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;3:26 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=69558&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">LETT, MICHELLE&nbsp;LATASHA</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=69558">LETT, MICHELLE&nbsp;LATASHA</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=69558" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1992</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SIMPLE BATTERY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121653</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>52760</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/29/2014&nbsp;10:08 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=52760&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">LUMPKIN, CHAD&nbsp;LAMAR</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=52760">LUMPKIN, CHAD&nbsp;LAMAR</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=52760" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1984</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SIMPLE BATTERY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121685</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>73858</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;4:59 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=73858&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">MASAUD, ROHAN&nbsp;TARIQ</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=73858">MASAUD, ROHAN&nbsp;TARIQ</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=73858" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1993</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION HOLD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>B</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>POM</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>73858</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;4:59 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=73858&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">MASAUD, ROHAN&nbsp;TARIQ</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=73858">MASAUD, ROHAN&nbsp;TARIQ</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=73858" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1993</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUSPENDED LICENSE</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1422752</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86290</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/29/2014&nbsp;10:51 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86290&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">MAXWELL, DOYT&nbsp;STANLEY</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86290">MAXWELL, DOYT&nbsp;STANLEY</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86290" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1966</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION VIOL STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>ST14CR2582R1</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>78841</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;3:07 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=78841&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">MONROE, THOMAS&nbsp;CALEB</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=78841">MONROE, THOMAS&nbsp;CALEB</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=78841" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1990</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;9:21 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI  ALCOHOL</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121607</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>78841</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;3:07 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=78841&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">MONROE, THOMAS&nbsp;CALEB</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=78841">MONROE, THOMAS&nbsp;CALEB</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=78841" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1990</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;9:21 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>IMPROPER DRIVING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121607</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>34079</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;3:32 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=34079&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">MUIA, JAMES&nbsp;VINCENT</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=34079">MUIA, JAMES&nbsp;VINCENT</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=34079" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1980</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;4:51 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DISORDERLY CONDUCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121608</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>34079</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;3:32 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=34079&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">MUIA, JAMES&nbsp;VINCENT</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=34079">MUIA, JAMES&nbsp;VINCENT</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=34079" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1980</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;4:51 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PUBLIC INTOXICATION</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121608</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>1486</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;3:56 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=1486&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">NORMAN, KEVIN&nbsp;JAY</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=1486">NORMAN, KEVIN&nbsp;JAY</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=1486" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1967</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SIMPLE BATTERY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$3,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>77047</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;6:46 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=77047&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">OLVERA, JUAN&nbsp;CESAR</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=77047">OLVERA, JUAN&nbsp;CESAR</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=77047" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1977</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Hispanic</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/25/2014&nbsp;5:00 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PUBLIC INTOXICATION</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86971</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;2:14 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86971&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ORR, MEGAN&nbsp;TAYLOR</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86971">ORR, MEGAN&nbsp;TAYLOR</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86971" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1994</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;6:01 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI-ALCOH.UNDER 21</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>I100154612-01</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86971</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;2:14 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86971&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ORR, MEGAN&nbsp;TAYLOR</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86971">ORR, MEGAN&nbsp;TAYLOR</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86971" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1994</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;6:01 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RECKLESS DRIVING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>I100154612-01</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86971</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;2:14 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86971&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">ORR, MEGAN&nbsp;TAYLOR</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86971">ORR, MEGAN&nbsp;TAYLOR</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86971" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1994</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;6:01 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>TIRES/FAULTY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$250.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>I100154612-01</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86963</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;2:08 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86963&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">PICKREN, RYAN&nbsp;GREGORY</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86963">PICKREN, RYAN&nbsp;GREGORY</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86963" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1993</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;3:14 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>COMPUTER TRESPASS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$5,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>SU14CR1023</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>83298</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/29/2014&nbsp;10:32 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=83298&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">POPE, NICOLE&nbsp;LIN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=83298">POPE, NICOLE&nbsp;LIN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=83298" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1994</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PROBATION HOLD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>B</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>36618</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;6:54 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=36618&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">POWER, TYNESIA&nbsp;IQUAN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=36618">POWER, TYNESIA&nbsp;IQUAN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=36618" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1983</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;10:45 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>THEFT BY SHOPLIFTING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$5,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121580</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86978</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/29/2014&nbsp;10:00 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86978&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">SCOTT, DAVID&nbsp;ANDREW</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86978">SCOTT, DAVID&nbsp;ANDREW</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86978" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1987</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUN BENCH WARRANT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU120007254</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86972</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;2:39 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86972&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">SHARP, HARRISON&nbsp;LEE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86972">SHARP, HARRISON&nbsp;LEE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86972" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1996</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;4:53 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>UNDAGE POS/FURN ALCH</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14-12-1638</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>82518</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;2:05 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=82518&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">SMITH, CEDRIC&nbsp;COURTES</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=82518">SMITH, CEDRIC&nbsp;COURTES</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=82518" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>OBSTRUCTION LEO</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$3,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121498</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>82518</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;2:05 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=82518&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">SMITH, CEDRIC&nbsp;COURTES</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=82518">SMITH, CEDRIC&nbsp;COURTES</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=82518" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1991</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>THEFT BY SHOPLIFTING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121498</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>65946</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;9:46 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=65946&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">SMITH, TERENCE&nbsp;CORTEZ</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=65946">SMITH, TERENCE&nbsp;CORTEZ</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=65946" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1988</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI   DRUGS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>65946</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;9:46 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=65946&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">SMITH, TERENCE&nbsp;CORTEZ</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=65946">SMITH, TERENCE&nbsp;CORTEZ</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=65946" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1988</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>PAROLE VIOLATION</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>B</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>65946</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;9:46 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=65946&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">SMITH, TERENCE&nbsp;CORTEZ</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=65946">SMITH, TERENCE&nbsp;CORTEZ</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=65946" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1988</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SPEEDING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86974</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;1:45 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86974&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">SOTO, LEO&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86974">SOTO, LEO&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86974" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1996</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Hispanic</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUN CONTEMPT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1411870</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>65589</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;2:01 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=65589&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">TAYLOR, KENDRA&nbsp;MICHELLE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=65589">TAYLOR, KENDRA&nbsp;MICHELLE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=65589" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1988</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;11:36 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>BATTERY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$3,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR140007174</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>52067</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;11:05 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=52067&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">TEAGUE, RACHEL&nbsp;STRICKLAND</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=52067">TEAGUE, RACHEL&nbsp;STRICKLAND</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=52067" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1986</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;1:38 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI  ALCOHOL</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121611</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>52067</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;11:05 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=52067&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">TEAGUE, RACHEL&nbsp;STRICKLAND</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=52067">TEAGUE, RACHEL&nbsp;STRICKLAND</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=52067" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1986</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;1:38 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SPEEDING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121611</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86969</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;1:58 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86969&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">THOMAS, LORETTA&nbsp;NICOLE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86969">THOMAS, LORETTA&nbsp;NICOLE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86969" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1989</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;3:40 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI   DRUGS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121603</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86969</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;1:58 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86969&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">THOMAS, LORETTA&nbsp;NICOLE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86969">THOMAS, LORETTA&nbsp;NICOLE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86969" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1989</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Female</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;3:40 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ONE WAY ROADWAY</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121603</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>49456</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/29/2014&nbsp;8:36 A.M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=49456&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">UMANA, FRANCIS&nbsp;ANTONIO</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=49456">UMANA, FRANCIS&nbsp;ANTONIO</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=49456" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1985</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Hispanic</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>LICENSE REQUIRED</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MU1412614</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>123</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;10:03 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=123&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WARE, RICKY&nbsp;NELSON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=123">WARE, RICKY&nbsp;NELSON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=123" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1959</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>ACCPD</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>CRIMINAL TRESPASS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>14121525</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>59750</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;9:58 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=59750&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WATKINS, BRANDON&nbsp;BERNARD</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=59750">WATKINS, BRANDON&nbsp;BERNARD</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=59750" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1988</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;11:48 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI   DRUGS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>59750</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;9:58 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=59750&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WATKINS, BRANDON&nbsp;BERNARD</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=59750">WATKINS, BRANDON&nbsp;BERNARD</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=59750" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1988</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;11:48 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>IMPROPER DRIVING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>59750</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;9:58 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=59750&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WATKINS, BRANDON&nbsp;BERNARD</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=59750">WATKINS, BRANDON&nbsp;BERNARD</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=59750" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1988</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;11:48 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>LIC/EXHIB ON DEMAND</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86964</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;8:32 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86964&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WATSON, TCAL&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86964">WATSON, TCAL&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86964" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1995</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;12:57 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FINANCIAL ID FRAUD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>CRCR14-6905</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86964</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;8:32 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86964&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WATSON, TCAL&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86964">WATSON, TCAL&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86964" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1995</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;12:57 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FINANCIAL ID FRAUD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>CRCR14-6906</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86964</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;8:32 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86964&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WATSON, TCAL&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86964">WATSON, TCAL&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86964" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1995</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;12:57 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FINANCIAL ID FRAUD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>CRCR14-6907</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86964</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;8:32 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86964&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WATSON, TCAL&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86964">WATSON, TCAL&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86964" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1995</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;12:57 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FINANCIAL ID FRAUD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>CRCR14-6908</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86964</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;8:32 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86964&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WATSON, TCAL&nbsp;</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86964">WATSON, TCAL&nbsp;</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86964" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1995</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;12:57 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FINANCIAL ID FRAUD</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$2,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>CRCR14-6909</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>50070</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/28/2014&nbsp;11:16 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=50070&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WILHITE, GREGORY&nbsp;JACQUON</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=50070">WILHITE, GREGORY&nbsp;JACQUON</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=50070" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1986</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>FAILURE TO APPEAR</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>ST14CR0288</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>2507</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;10:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=2507&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WILLIAMS, ROBERT&nbsp;LEWIS</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=2507">WILLIAMS, ROBERT&nbsp;LEWIS</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=2507" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1976</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>THEFT BY TAKING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$10,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR131022</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>2507</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/27/2014&nbsp;10:42 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=2507&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WILLIAMS, ROBERT&nbsp;LEWIS</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=2507">WILLIAMS, ROBERT&nbsp;LEWIS</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=2507" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1976</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>THEFT BY TAKING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,500.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86965</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;9:25 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86965&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WILLIAMS, TED&nbsp;STEVEN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86965">WILLIAMS, TED&nbsp;STEVEN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86965" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1964</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;11:03 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>DUI  ALCOHOL</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>MUNCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$3,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>86965</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/23/2014&nbsp;9:25 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=86965&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WILLIAMS, TED&nbsp;STEVEN</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=86965">WILLIAMS, TED&nbsp;STEVEN</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=86965" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1964</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>White</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>GSP</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/24/2014&nbsp;11:03 A.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>OBEYING SIGNAL/SIGNS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>STCRT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>RELEASED ON BOND</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$1,000.00</td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>78412</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;8:34 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=78412&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WOOD, MARCELOUS&nbsp;ANDRE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=78412">WOOD, MARCELOUS&nbsp;ANDRE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=78412" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1972</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>AGGRAVATED STALKING</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR141402</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>78412</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;8:34 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=78412&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WOOD, MARCELOUS&nbsp;ANDRE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=78412">WOOD, MARCELOUS&nbsp;ANDRE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=78412" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1972</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>TERR THREATS/ACTS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR141403</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>78412</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;8:34 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=78412&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WOOD, MARCELOUS&nbsp;ANDRE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=78412">WOOD, MARCELOUS&nbsp;ANDRE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=78412" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1972</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>TERR THREATS/ACTS</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>F</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR144614</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>78412</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;8:34 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=78412&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WOOD, MARCELOUS&nbsp;ANDRE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=78412">WOOD, MARCELOUS&nbsp;ANDRE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=78412" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1972</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>UNLAWFUL CONDUCT 911</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR141404</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
+
+
+
+
+
+<TR ALIGN=center VALIGN=middle>
+
+<TD ALIGN=center><FONT SIZE=-1>78412</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>12/26/2014&nbsp;8:34 P.M.</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1><a href="##" onClick="window.open('details.asp?id=78412&pg=2', 'search', 'width=720,height=800,status=yes,resizable=yes,scrollbars=yes')">WOOD, MARCELOUS&nbsp;ANDRE</a> </FONT></td>
+<!--<TD ALIGN=center><FONT SIZE=-1><a href="details.asp?id=78412">WOOD, MARCELOUS&nbsp;ANDRE</a> | <subform onsubmit="window.open('', 'search', 'width=600,height=400,status=yes,resizable=yes,scrollbars=yes')" method="post" action="details.asp?id=78412" target="search"></subform></FONT></td>-->
+<TD ALIGN=center><FONT SIZE=-1>1972</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Black</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>Male</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SO</FONT></td>
+<TD ALIGN=center nowrap="nowrap"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>UNLAWFUL CONDUCT 911</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>M</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>SUPCT</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+<TD ALIGN=right><FONT SIZE=-1>$0.00</td>
+<TD ALIGN=center><FONT SIZE=-1>MC01CRCR142387</FONT></td>
+<TD ALIGN=center><FONT SIZE=-1>&nbsp;</FONT></td>
+</tr>
+
+
