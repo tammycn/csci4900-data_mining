@@ -72,8 +72,9 @@ public class CSVStream {
 	public boolean next() {
 		try {
 			//if has next line exists, read line
-			if ((line = reader.readLine()) != null)
+			if ((line = reader.readLine()) != null) {
 				return true;
+			}
 		} catch (Exception e) {
 			System.out.println("error: next");
 		}
@@ -107,8 +108,9 @@ public class CSVStream {
 			
 			Date booking_date = format.parse(booking_date_str);
 			Date release_date = null;
-			if (!release_date_str.equalsIgnoreCase("null")) 
+			if (!release_date_str.equalsIgnoreCase("null")) {
 				release_date = format.parse(release_date_str);
+			}
 			
 			//Dollar amount
 			String bond = tokens.get(13).substring(1).replace(",", ""); //remove $ and ","
